@@ -27,7 +27,7 @@ to provide the best digital solutions 😊 </h3>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="22" height="22"/> 
-  <img src=" https://raw.githubusercontent.com/manuelbieh/logo-file-icons/0791cbe1bce5d06034087bf70f6d45bb6635c20d/icons/php2.svg" alt="Php" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/0791cbe1bce5d06034087bf70f6d45bb6635c20d/icons/php2.svg" alt="Php" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
  <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/vue.svg" alt="Vuejs" width="22" height="22"/> 
