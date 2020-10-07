@@ -39,7 +39,6 @@ to provide the best digital solutions 😊 </h3>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasitmirani&layout=compact&hide=html" alt="wasitmirani" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasitmirani&show_icons=true" alt="wasitmirani" /></p>
 
