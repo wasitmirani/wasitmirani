@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wasit Mirani 😊</h1>
+<h1 align="center">Hi 👋, I'm  Wasit Mirani 😊</h1>
+<span align="center">Full Stack Developer 😊</span>
 <h3 align="center">Software Developer excited to use the latest tools and technologies
 to provide the best digital solutions 😊 </h3>
 
