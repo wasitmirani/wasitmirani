@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm  Wasit Ali Mirani 😊 <br><span align="center">Full Stack Developer </span>
 </h1>
 
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/xkas01/wasitmirani"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/xkas01/wasitmirani/graphs/contributors"><img src="https://img.shields.io/github/contributors/wasitmirani/wasitmirani?color=blue"></a>
+    <a href="https://github.com/xkas01/wasitmirani/stargazers"><img src="https://img.shields.io/github/stars/wasitmirani/wasitmirani.svg?logo=github"></a>
+    <a href="https://github.com/xkas01/wasitmirani/network/members"><img src="https://img.shields.io/github/forks/wasitmirani/wasitmirani.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=wasitmirani" alt="visitors"/>   
+</p>
 <h3 align="center">Software Developer excited to use the latest tools and technologies
 to provide the best digital solutions 😊 </h3>
 
