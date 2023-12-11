@@ -15,9 +15,9 @@ to provide the best digital solutions 😊 </h3>
 ![Twitter Follow](https://img.shields.io/twitter/follow/wasitmirani1?label=wasitmirani1&logo=twitter&style=for-the-badge)
 
 
-- 🔭 I’m currently working on [The Laravel & Vuejs ,Flutter, Nodejs Way](https://www.youtube.com/channel/UC7-faNxzJpbUOCSMYULI7cA)
+- 🔭 I’m currently working on [The Laravel,Python,Nodejs & Vuejs ,Flutter,Shopify Way](https://www.youtube.com/channel/UC7-faNxzJpbUOCSMYULI7cA)
 
-- 🌱 I’m currently learning **Flutter, Laravel, Vuejs, Nodejs, Livewire, Denojs**
+- 🌱 I’m currently learning **Flutter, Laravel,Python,Nodejs, Vuejs, Nodejs, Livewire, Denojs**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
