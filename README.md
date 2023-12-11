@@ -17,8 +17,7 @@ to provide the best digital solutions 😊 </h3>
 
 - 🔭 I’m currently working on [The Laravel,Python,Nodejs & Vuejs ,Flutter,Shopify Way](https://www.youtube.com/channel/UC7-faNxzJpbUOCSMYULI7cA)
 
-- 🌱 I’m currently learning **Flutter, Laravel,Python,Nodejs, Vuejs, Nodejs, Livewire, Denojs**
-
+- 🌱 I’m currently learning **Flutter, Laravel,Python,Nodejs, Vuejs, Reactjs, Shopify,
 - 👯 I’m looking to collaborate with **other content creators**
 
 - ⚡ Fun fact **I love to play Video Games and Tea over.**
