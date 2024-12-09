@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm  Wasit Ali Mirani 😊 <br><span align="center">Full Stack Developer </span>
-</h1>
+📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/wasitmirani?label=Follow%20Me&style=social)](https://github.com/sohaibmughall)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-WasitMirani-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/wasit-mirani-295a18132/)
+[![Mail](https://img.shields.io/badge/Gmail-wasitmirani32@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:wasitmirani32@gmail.com)
+<br>
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/xkas01/wasitmirani"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
@@ -9,45 +11,79 @@
     <a href="https://github.com/xkas01/wasitmirani/network/members"><img src="https://img.shields.io/github/forks/wasitmirani/wasitmirani.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=wasitmirani" alt="visitors"/>   
 </p>
-<h3 align="center">Software Developer excited to use the latest tools and technologies
-to provide the best digital solutions 😊 </h3>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/wasitmirani1?label=wasitmirani1&logo=twitter&style=for-the-badge)
+<h1 align='center'><samp><strong>Hi there 👋,  I'm Wasit Ali Mirani 😊
+Full Stack Developer </strong></samp></h1>
+
+<p align='center'><strong>Software Developer | Full-Stack JavaScript | Node/Next.js, React Developer | Web & Mobile Developer</strong></p> <p align='left'> 📫 Passionate about technology and lifelong learning, I am a self-taught software developer turned professional with over 6 years of experience in full-stack development. My expertise spans Laravel, Node.js, Python, TypeScript, and Flutter, specializing in building dynamic web and mobile applications.
+I have hands-on experience in developing web scripts, static websites, and NFT Marketplaces, as well as Shopify store and app development. I thrive on exploring and integrating cutting-edge tools and technologies to deliver innovative solutions.
+
+Proficient in Vue.js, React.js, and modern JavaScript frameworks, I am committed to creating scalable and efficient solutions, focusing on performance and user experience. Whether leading a team or working independently, I aim to deliver exceptional products that drive impact.
+
+</p>
+
+Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+
+💻 **Languages and Tools:** 🛠️<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=black&logo=laravel&logoColor=FF2D20)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=Vue&logoColor=F0DB4F)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&labelColor=black&logo=shopify&logoColor=96BF48)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+🧐 **Knowledge of:**<br>
+
+`Responsive web design`, `DOM`, `Styled Components`, `React Router`, `Enzyme`, `AXIOS`, `3rd Party API`, `Object-Oriented Programming`, `data structures and algorithms`.
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/wasitmirani">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasitmirani&theme=radical&border=7F3FBF&background=0D1117" alt="Wasit Mirani GitHub streak"  width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/wasitmirani">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasitmirani&theme=radical" alt="Wasit Mirani GitHub Contribution"  width="100%"/>
+  </a>
+</p>
+
+![Wasit Mirani Graph](https://github-readme-activity-graph.vercel.app/graph?username=wasitmirani&custom_title=SohiabAhmed%20GitHub%20Activity%20Graph&bg_color=0D1117&border=7F3FBF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
-- 🔭 I’m currently working on [The Laravel,Python,Nodejs & Vuejs ,Flutter,Shopify Way](https://www.youtube.com/channel/UC7-faNxzJpbUOCSMYULI7cA)
+<a> 
 
-- 🌱 I’m currently learning **Flutter, Laravel,Python,Nodejs, Vuejs, Reactjs, Shopify,
-- 👯 I’m looking to collaborate with **other content creators**
+  <a href="https://github.com/sohaibmughall"><img alt="Wasit Mirani Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=wasitmirani&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="100%"/></a>
+  <br/>
+</a> 
 
-- ⚡ Fun fact **I love to play Video Games and Tea over.**
-
-### Connect with me:
-
-<a href="https://twitter.com/wasitmirani1" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Wasit Mirani" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/wasit-mirani-295a18132" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wasit-mirani-295a18132" height="22" width="22" /></a>
-<a href="https://www.youtube.com/c/ucjm7i4g4z7zgcja_hkhlcvw" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
-
-
-<br />
-
-### Languages and Tools:
-
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/manuelbieh/logo-file-icons/0791cbe1bce5d06034087bf70f6d45bb6635c20d/icons/php2.svg" alt="Php" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
- <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/vue.svg" alt="Vuejs" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/nodejs.svg" alt="Nodejs" width="22" height="22"/> 
-   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/1557347d6549c7e7135d0c7e026cda82b0601d9e/icons/deno.svg" alt="Denojs" width="22" height="22"/> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/bootstrap-4.svg" alt="bootstrap" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-<!--  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>  -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasitmirani&layout=compact&hide=html" alt="wasitmirani" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasitmirani&show_icons=true" alt="wasitmirani" /></p>
 
