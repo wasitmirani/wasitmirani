@@ -77,7 +77,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
   </a>
 </p>
 
-![Wasit Mirani Graph](https://github-readme-activity-graph.vercel.app/graph?username=wasitmirani&custom_title=SohiabAhmed%20GitHub%20Activity%20Graph&bg_color=0D1117&border=7F3FBF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Wasit Mirani Graph](https://github-readme-activity-graph.vercel.app/graph?username=wasitmirani&custom_title=wasitmirani%20GitHub%20Activity%20Graph&bg_color=0D1117&border=7F3FBF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <a> 
